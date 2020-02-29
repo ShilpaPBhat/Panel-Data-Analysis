@@ -12,9 +12,9 @@
 
 This exercise was the part of Econometrics and Time Series coursework at The University of Texas at Dallas.
 
-Traffic fatalities are the third-leading cause of death due to injury (non-health and disease related) in the U.S
+Traffic fatalities are the third-leading cause of death due to injury (non-health and disease related) in the U.S <br>
 One of the reason could be traffic fatalities due to drunk driving. One third of traffic fatalities are due to drunk driving.
-So here in this project we are analyzing how do druk driving laws affect traafic deaths.
+So here in this project we are analyzing how do druk driving laws affect traffic deaths.
 
 ## Data Description
 
@@ -32,7 +32,7 @@ The [data](https://github.com/ShilpaPBhat/Panel-Data-Analysis/tree/master/data) 
 You can have a look at complete code and report [here](https://github.com/ShilpaPBhat/Panel-Data-Analysis/tree/master/code_report)
 
 ## Result
-Fixed effect model with entity and time fixed effect is our best model. From our analysis and the data given we can infer that drunk driving laws may have impact on vehicle fatalities but we cannot clearly conclude
+Fixed effect model with entity and time fixed effect is our best model. From our analysis and the data given we can infer that drunk driving laws may have impact on vehicle fatalities but we cannot clearly conclude.
 
 
 
