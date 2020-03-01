@@ -29,7 +29,7 @@ The [data](https://github.com/ShilpaPBhat/Panel-Data-Analysis/tree/master/data) 
 
 ## Code and Report
 
-You can have a look at complete code and report [here](https://github.com/ShilpaPBhat/Panel-Data-Analysis/tree/master/code_report)
+You can have a look at complete code and report [here](https://github.com/ShilpaPBhat/Panel-Data-Analysis/blob/master/code_report/EconometricFinalProject.pdf)
 
 ## Result
 Fixed effect model with entity and time fixed effect is our best model. From our analysis and the data given we can infer that drunk driving laws may have impact on vehicle fatalities but we cannot clearly conclude.
